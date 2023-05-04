@@ -114,6 +114,7 @@ public class MonoPackageManager_Resources {
 		"Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll",
 		"Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll",
 		"Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll",
+		"Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

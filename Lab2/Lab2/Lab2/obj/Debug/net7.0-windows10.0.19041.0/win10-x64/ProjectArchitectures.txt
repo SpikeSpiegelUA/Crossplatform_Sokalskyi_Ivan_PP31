@@ -1,1 +1,1 @@
-D:\Unik\Crossplatform\Lab2\Lab2\Lab2\Lab2.csproj;x64
+D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\Lab2.csproj;x64

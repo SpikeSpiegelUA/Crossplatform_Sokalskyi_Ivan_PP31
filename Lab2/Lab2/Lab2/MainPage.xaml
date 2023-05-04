@@ -12,6 +12,8 @@
         <Button Text="Update Time" Command="{Binding UpdateTimeCommand}" />
         <controls:BorderedEntry Placeholder="Type here..." />
         <Label Text="{Binding CurrentDeviceinfo}" FontSize="24" />
+        <Button Text="Update Image" Command="{Binding UpdateImageCommand}" />
+        <Image Source="{Binding ImageSource}"  HeightRequest="300"/>
     </StackLayout>
 </ContentPage>
 

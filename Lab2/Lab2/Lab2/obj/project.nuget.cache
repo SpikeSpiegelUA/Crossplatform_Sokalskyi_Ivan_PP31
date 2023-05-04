@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "90aC1QI2csY4ldqA1bjx98hCSedrWDvHFx4ldcCFM+zdIIMfqZ/UY9yy4t0sksLVA43zSsTo81OpE3hrEbOduQ==",
+  "dgSpecHash": "XsA/2nuwEQbpO/Ee1qD1MsDFg+su3UFlkYThaOsf8b9maoFJGNKtqKdmltjfSMiX3PJYfULObedwlvsUYwsP7A==",
   "success": true,
-  "projectFilePath": "D:\\Unik\\Crossplatform\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
+  "projectFilePath": "D:\\Unik\\Crossplatform\\Crossplatform_Sokalskyi_Ivan_PP31\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

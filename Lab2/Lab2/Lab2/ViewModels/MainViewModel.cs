@@ -6,6 +6,7 @@ using System.Windows.Input;
 using Microsoft.Maui.Controls;
 using System.Net.Http;
 using System.Text.Json;
+using System.Numerics;
 
 namespace Lab2.ViewModels
 {
@@ -13,8 +14,22 @@ namespace Lab2.ViewModels
     {
         private string _currentDateTime;
         private string _currentDeviceInfo;
+        private string _currentSource = "Resources/Images/adachi.webp";
+        public string Title
+        {
+            get => "Welcome to.NET MAUI";
+        }
 
-        public string Title = "Welcome to.NET MAUI";
+        public string ImageSource
+        {
+            get => _currentSource;
+            set
+            {
+                _currentSource = value;
+                OnPropertyChanged();
+            }
+        }
+
         public string CurrentDateTime
         {
             get => _currentDateTime;
@@ -25,10 +40,15 @@ namespace Lab2.ViewModels
             }
         }
         public ICommand UpdateTimeCommand { get; }
+        public ICommand UpdateImageCommand { get; }
 
         public string CurrentDeviceinfo
         {
-            get => _currentDeviceInfo;
+            get => new StringBuilder()
+            .AppendLine($"Model: {DeviceInfo.Model}")
+            .AppendLine($"Manufacturer: {DeviceInfo.Manufacturer}")
+            .AppendLine($"Platform: {DeviceInfo.Platform}")
+            .AppendLine($"OS Version: {DeviceInfo.VersionString}").ToString();
             set
             {
                 _currentDeviceInfo = value;
@@ -40,12 +60,8 @@ namespace Lab2.ViewModels
         {
             UpdateTimeCommand = new Command(UpdateTime);
             CurrentDateTime = DateTime.Now.ToString("F");
-            var deviceInfo = new StringBuilder()
-            .AppendLine($"Model: {DeviceInfo.Model}")
-            .AppendLine($"Manufacturer: {DeviceInfo.Manufacturer}")
-            .AppendLine($"Platform: {DeviceInfo.Platform}")
-            .AppendLine($"OS Version: {DeviceInfo.VersionString}");
-            CurrentDeviceinfo = deviceInfo.ToString();
+            UpdateImageCommand = new Command(UpdateImage);
+            UpdateImage();
         }
         private void UpdateTime()
         {
@@ -58,6 +74,16 @@ namespace Lab2.ViewModels
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
+        public void UpdateImage()
+        {
+            int number = 0;
+            Random rnd = new Random();
+            number = rnd.Next(2);
+            if (number == 0)
+                ImageSource = "adachi.webp";
+            else 
+                ImageSource = "dotnet_bot.png";
+        }
         private async Task FetchDataFromApiAsync()
         {
             var httpClient = new HttpClient();
