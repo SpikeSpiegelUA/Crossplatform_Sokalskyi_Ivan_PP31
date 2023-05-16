@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-04T12:58:44.962</Modified>
+      <Modified>2023-05-11T08:11:57.562</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-04T12:58:43.954</Modified>
+      <Modified>2023-05-11T08:11:57.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lab2.runtimeconfig.json">
       <PackagePath>Lab2.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lab2.dll">
       <PackagePath>Lab2.dll</PackagePath>
-      <Modified>2023-05-04T12:58:42.689</Modified>
+      <Modified>2023-05-11T08:11:54.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Lab2.exe</PackagePath>
-      <Modified>2023-05-04T12:58:42.776</Modified>
+      <Modified>2023-05-11T08:11:54.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ivan\.nuget\packages\mstest.testadapter\3.0.2\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll">
       <PackagePath>Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll</PackagePath>
@@ -995,7 +995,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Lab2.deps.json">
       <PackagePath>Lab2.deps.json</PackagePath>
-      <Modified>2023-05-04T12:58:44.789</Modified>
+      <Modified>2023-05-11T08:11:57.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.81\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1047,207 +1047,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-05-04T09:30:42.512</Modified>
+      <Modified>2023-05-11T08:11:29.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-05-04T09:30:43.134</Modified>
+      <Modified>2023-05-11T08:11:29.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-05-04T09:30:43.146</Modified>
+      <Modified>2023-05-11T08:11:30.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-05-04T09:30:43.155</Modified>
+      <Modified>2023-05-11T08:11:30.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-05-04T09:30:43.176</Modified>
+      <Modified>2023-05-11T08:11:30.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-05-04T09:30:43.264</Modified>
+      <Modified>2023-05-11T08:11:30.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.664</Modified>
+      <Modified>2023-05-11T08:11:29.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.666</Modified>
+      <Modified>2023-05-11T08:11:29.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.748</Modified>
+      <Modified>2023-05-11T08:11:29.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.669</Modified>
+      <Modified>2023-05-11T08:11:29.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.672</Modified>
+      <Modified>2023-05-11T08:11:29.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.642</Modified>
+      <Modified>2023-05-11T08:11:29.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.645</Modified>
+      <Modified>2023-05-11T08:11:29.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.660</Modified>
+      <Modified>2023-05-11T08:11:29.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.648</Modified>
+      <Modified>2023-05-11T08:11:29.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.651</Modified>
+      <Modified>2023-05-11T08:11:29.809</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.526</Modified>
+      <Modified>2023-05-11T08:11:29.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.531</Modified>
+      <Modified>2023-05-11T08:11:29.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.535</Modified>
+      <Modified>2023-05-11T08:11:29.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.540</Modified>
+      <Modified>2023-05-11T08:11:29.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.547</Modified>
+      <Modified>2023-05-11T08:11:29.777</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.550</Modified>
+      <Modified>2023-05-11T08:11:29.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.553</Modified>
+      <Modified>2023-05-11T08:11:29.783</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.639</Modified>
+      <Modified>2023-05-11T08:11:29.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.556</Modified>
+      <Modified>2023-05-11T08:11:29.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.632</Modified>
+      <Modified>2023-05-11T08:11:29.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.851</Modified>
+      <Modified>2023-05-11T08:11:29.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.857</Modified>
+      <Modified>2023-05-11T08:11:29.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.910</Modified>
+      <Modified>2023-05-11T08:11:29.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.919</Modified>
+      <Modified>2023-05-11T08:11:29.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.936</Modified>
+      <Modified>2023-05-11T08:11:29.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.774</Modified>
+      <Modified>2023-05-11T08:11:29.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.822</Modified>
+      <Modified>2023-05-11T08:11:29.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.830</Modified>
+      <Modified>2023-05-11T08:11:29.864</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.836</Modified>
+      <Modified>2023-05-11T08:11:29.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.846</Modified>
+      <Modified>2023-05-11T08:11:29.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.751</Modified>
+      <Modified>2023-05-11T08:11:29.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.755</Modified>
+      <Modified>2023-05-11T08:11:29.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.758</Modified>
+      <Modified>2023-05-11T08:11:29.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.764</Modified>
+      <Modified>2023-05-11T08:11:29.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.770</Modified>
+      <Modified>2023-05-11T08:11:29.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.947</Modified>
+      <Modified>2023-05-11T08:11:29.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.960</Modified>
+      <Modified>2023-05-11T08:11:29.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.970</Modified>
+      <Modified>2023-05-11T08:11:29.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.986</Modified>
+      <Modified>2023-05-11T08:11:29.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-05-04T09:30:43.072</Modified>
+      <Modified>2023-05-11T08:11:29.982</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.506</Modified>
+      <Modified>2023-05-11T08:11:29.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.527</Modified>
+      <Modified>2023-05-11T08:11:29.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.544</Modified>
+      <Modified>2023-05-11T08:11:29.777</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.573</Modified>
+      <Modified>2023-05-11T08:11:29.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-05-04T09:30:42.658</Modified>
+      <Modified>2023-05-11T08:11:29.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unik\Crossplatform\Crossplatform_Sokalskyi_Ivan_PP31\Lab2\Lab2\Lab2\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\motoko.scale-100.webp">
+      <PackagePath>motoko.scale-100.webp</PackagePath>
+      <Modified>2023-05-11T08:09:06.260</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

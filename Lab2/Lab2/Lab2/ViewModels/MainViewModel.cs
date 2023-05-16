@@ -80,7 +80,7 @@ namespace Lab2.ViewModels
             Random rnd = new Random();
             number = rnd.Next(2);
             if (number == 0)
-                ImageSource = "adachi.webp";
+                ImageSource = "motoko.webp";
             else 
                 ImageSource = "dotnet_bot.png";
         }
